@@ -1,0 +1,6 @@
+- [ ] Create tables and seed data
+- [ ] GET '/' Shows a **listing** page which contains links for individual items
+- [ ] Links on listing page take user to a **details** page, which shows additional information about the item which was clicked on
+- [ ] A link on the details page allows the user to **get back to the listing page**
+- [ ] A form on main page which enables a user to insert data
+- [ ] A delete link on the detail page which enables a user to delete data
